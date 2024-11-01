@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Steven Reyes
+# 👋 Hi, I'm Steven
 
 I’m an **innovator** driven by the goal of creating transformative technologies that **elevate people** and advance the potential of modern software. My work focuses on exploring the intersections of **machine learning (ML)**, **artificial intelligence (AI)**, **large language models (LLMs)**, **web applications**, and **full-stack applications**. Though I’m relatively new to programming, I’ve been using tools like ChatGPT to accelerate my learning, build impactful projects, and experiment with new ideas.
 
